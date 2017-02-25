@@ -15,6 +15,7 @@
         <module>MessageDispatcher</module>
         <module>Connection</module>
         <module>Logger</module>
+        <module>Broker</module>
     </modules>
 
 

@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
  * Created by Administrator on 2017/2/25/025.
  */
 public class CreateBroker implements Command{
-    private static final Logger logger = LoggerFactory.getLogger(CreateBroker.class);
+    private static final Logger logger = LoggerFactory.getLogger(Command.TransferCreate.class);
     /**
      * 构造方法.
      * */
